@@ -1,18 +1,47 @@
 [
   {
-  "img":"https://i.postimg.cc/WzwWVM5P/IMG-20220724-140020-699.jpg",
+  "img":"http://zegomovie.com/Uploads/vod/2022-06-06/629d89e9c207d.jpg",
     "sname":"Love, Death & Robots",
     "link":[
       {
         "part":"1",
-       "downloadLink":"",
-    "playLink": ""
+       "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      },
+       {
+         "part":"2",
+       "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      },
+       {
+         "part":"3",
+      "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      }
+    ]
+  
+  },
+    {
+  "img":"http://zegomovie.com/Uploads/vod/2019-08-23/5d5fafcb3cdf4.jpg",
+       "sname":"Deception",
+    "link":[
+      {
+        "part":"1",
+       "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      },
+       {
+         "part":"2",
+      "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      },
+       {
+         "part":"3",
+      "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
       }
     ]
   
   }
-
-
-
 
 ]
