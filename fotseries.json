@@ -1,5 +1,73 @@
 [
 {
+  "img":"http://zegomovie.com/Uploads/vod/2021-12-29/61cc39b4e2428.jpg",
+    "sname":"Sword Snow Stride",
+    "link":[
+      {
+        "part":"1",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp1/SnowSwordStrideEp1.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp1/SnowSwordStrideEp1.mp4"
+      },
+       {
+         "part":"2",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp2/SnowSwordStrideEp2.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp2/SnowSwordStrideEp2.mp4"
+      },
+       {
+         "part":"3",
+      "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp3/SnowSwordStrideEp3.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp3/SnowSwordStrideEp3.mp4"
+      },
+  {
+"part":"4",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp4/SnowSwordStrideEp4.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp4/SnowSwordStrideEp4.mp4"
+      },
+       {
+         "part":"5",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp5/SnowSwordStrideEp5.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp5/SnowSwordStrideEp5.mp4"
+      },
+       {
+         "part":"6",
+      "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp6/SnowSwordStrideEp6.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp6/SnowSwordStrideEp6.mp4"
+      },
+{
+"part":"7",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp7/SnowSwordStrideEp7.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp7/SnowSwordStrideEp7.mp4"
+      },
+       {
+         "part":"8",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp8/SnowSwordStrideEp8.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp8/SnowSwordStrideEp8.mp4"
+      },
+       {
+         "part":"9",
+      "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp9/SnowSwordStrideEp9.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp9/SnowSwordStrideEp9.mp4"
+      },
+{
+"part":"10",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp10/SnowSwordStrideEp10.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp10/SnowSwordStrideEp10.mp4"
+      },
+       {
+         "part":"link error",
+       "downloadLink":"0",
+    "playLink": "0"
+      },
+       {
+         "part":"12",
+      "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp12/SnowSwordStrideEp12.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp12/SnowSwordStrideEp12.mp4"
+      }
+    ]
+},
+
+
+{
   "img":"http://www.mflixth.com/mfsposter/913514.jpg",
     "sname":"MAN VS BEE (2022)",
     "link":[
