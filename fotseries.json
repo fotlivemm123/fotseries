@@ -1,14 +1,260 @@
 [
 {
-  "img":"https://i.postimg.cc/8cZgZw34/IMG-20220804-004522-407.jpg",
+  "img":"http://zegomovie.com/Uploads/vod/2021-12-29/61cc39b4e2428.jpg",
     "sname":"Sword Snow Stride",
     "link":[
       {
         "part":"1",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp1/SnowSwordStrideEp1.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp1/SnowSwordStrideEp1.mp4"
+      },
+       {
+         "part":"2",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp2/SnowSwordStrideEp2.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp2/SnowSwordStrideEp2.mp4"
+      },
+       {
+         "part":"3",
+      "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp3/SnowSwordStrideEp3.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp3/SnowSwordStrideEp3.mp4"
+      },
+  {
+"part":"4",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp4/SnowSwordStrideEp4.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp4/SnowSwordStrideEp4.mp4"
+      },
+       {
+         "part":"5",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp5/SnowSwordStrideEp5.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp5/SnowSwordStrideEp5.mp4"
+      },
+       {
+         "part":"6",
+      "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp6/SnowSwordStrideEp6.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp6/SnowSwordStrideEp6.mp4"
+      },
+{
+"part":"7",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp7/SnowSwordStrideEp7.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp7/SnowSwordStrideEp7.mp4"
+      },
+       {
+         "part":"8",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp8/SnowSwordStrideEp8.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp8/SnowSwordStrideEp8.mp4"
+      },
+       {
+         "part":"9",
+      "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp9/SnowSwordStrideEp9.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp9/SnowSwordStrideEp9.mp4"
+      },
+{
+"part":"10",
+       "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp10/SnowSwordStrideEp10.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp10/SnowSwordStrideEp10.mp4"
+      },
+       {
+         "part":"link error",
        "downloadLink":"0",
     "playLink": "0"
+      },
+       {
+         "part":"12",
+      "downloadLink":"http://www.zegomovie.com/Download/SnowSwordStrideEp12/SnowSwordStrideEp12.mp4",
+    "playLink": "http://www.zegomovie.com/Download/SnowSwordStrideEp12/SnowSwordStrideEp12.mp4"
       }
-]
-}
+    ]
+},
+
+
+{
+  "img":"http://www.mflixth.com/mfsposter/913514.jpg",
+    "sname":"MAN VS BEE (2022)",
+    "link":[
+      {
+        "part":"1",
+       "downloadLink":"http://api.mc2cr.com/api/movie?watch=l0ND4JhXmTod247925b-67ef-4e89-81d9-f0c003a0453a",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=l0ND4JhXmTod247925b-67ef-4e89-81d9-f0c003a0453a"
+      },
+       {
+         "part":"2",
+       "downloadLink":"http://api.mc2cr.com/api/movie?watch=ihJoDOgp3tj8d309512-af79-4eb4-b769-05d3a601d21a",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=ihJoDOgp3tj8d309512-af79-4eb4-b769-05d3a601d21a"
+      },
+       {
+         "part":"3",
+      "downloadLink":"http://api.mc2cr.com/api/movie?watch=8j5tCls7hVRf86485b0-fa66-4a84-ba89-a378e4685843",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=8j5tCls7hVRf86485b0-fa66-4a84-ba89-a378e4685843"
+      },
+  {
+"part":"4",
+       "downloadLink":"http://api.mc2cr.com/api/movie?watch=0v5ZVo7SBwFd9c529e2-5957-49e1-b7f9-0bfdde1ea3ae",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=0v5ZVo7SBwFd9c529e2-5957-49e1-b7f9-0bfdde1ea3ae"
+      },
+       {
+         "part":"5",
+       "downloadLink":"http://api.mc2cr.com/api/movie?watch=QkOLx8C5Afc7ce6cb0d-68a0-4d3d-9d47-ba96b9bdd1a3",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=QkOLx8C5Afc7ce6cb0d-68a0-4d3d-9d47-ba96b9bdd1a3"
+      },
+       {
+         "part":"6",
+      "downloadLink":"http://api.mc2cr.com/api/movie?watch=zZE41WIeiC346216460-e1f4-45cd-88fc-0b3f443e781d",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=zZE41WIeiC346216460-e1f4-45cd-88fc-0b3f443e781d"
+      },
+{
+"part":"7",
+       "downloadLink":"http://api.mc2cr.com/api/movie?watch=QPxbywhRnmF454ebe39-ac00-4a37-87a6-06213bdd83c0",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=QPxbywhRnmF454ebe39-ac00-4a37-87a6-06213bdd83c0"
+      },
+       {
+         "part":"8",
+       "downloadLink":"http://api.mc2cr.com/api/movie?watch=ANxwh3jQn8f3336586f-c420-425a-a06a-20df776513c2",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=ANxwh3jQn8f3336586f-c420-425a-a06a-20df776513c2"
+      },
+       {
+         "part":"9",
+      "downloadLink":"http://api.mc2cr.com/api/movie?watch=pM4wQJBjGo896db7b28-9d15-4bfe-95f7-c0cd4f1fd1e3",
+    "playLink": "http://api.mc2cr.com/api/movie?watch=pM4wQJBjGo896db7b28-9d15-4bfe-95f7-c0cd4f1fd1e3"
+      }
+
+    ]
+},
+{
+  "img":"http://zegomovie.com/Uploads/vod/2022-07-11/62cbd8900e329.jpg",
+    "sname":"EVE",
+    "link":[
+      {
+        "part":"1",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp1/EVEEp1.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp1/EVEEp1.mp4"
+      },
+       {
+         "part":"2",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp2/EVEEp2.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp2/EVEEp2.mp4"
+      },
+       {
+         "part":"3",
+      "downloadLink":"http://www.zegomovie.com/Download/EVEEp3/EVEEp3.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp3/EVEEp3.mp4"
+      },
+{
+"part":"4",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp4/EVEEp4.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp4/EVEEp4.mp4"
+      },
+       {
+         "part":"5",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp5/EVEEp5.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp5/EVEEp5.mp4"
+      },
+       {
+         "part":"6",
+      "downloadLink":"http://www.zegomovie.com/Download/EVEEp6/EVEEp6.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp6/EVEEp6.mp4"
+      },
+{
+"part":"7",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp7/EVEEp7.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp7/EVEEp7.mp4"
+      },
+       {
+         "part":"8",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp8/EVEEp8.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp8/EVEEp8.mp4"
+      },
+       {
+         "part":"9",
+      "downloadLink":"http://www.zegomovie.com/Download/EVEEp9/EVEEp9.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp9/EVEEp9.mp4"
+      },
+{
+"part":"10",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp10/EVEEp10.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp10/EVEEp10.mp4"
+      },
+       {
+         "part":"11",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp11/EVEEp11.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp11/EVEEp11.mp4"
+      },
+       {
+         "part":"12",
+      "downloadLink":"http://www.zegomovie.com/Download/EVEEp12/EVEEp12.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp12/EVEEp12.mp4"
+      },
+{
+"part":"13",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp13/EVEEp13.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp13/EVEEp13.mp4"
+      },
+       {
+         "part":"14",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp14/EVEEp14.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp14/EVEEp14.mp4"
+      },
+       {
+         "part":"15",
+      "downloadLink":"http://www.zegomovie.com/Download/EVEEp15/EVEEp15.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp15/EVEEp15.mp4"
+      },
+{
+"part":"END",
+       "downloadLink":"http://www.zegomovie.com/Download/EVEEp16/EVEEp16.mp4",
+    "playLink": "http://www.zegomovie.com/Download/EVEEp16/EVEEp16.mp4"
+      }
+       
+
+    
+    ]
+    },
+    
+    
+    
+  {
+  "img":"http://zegomovie.com/Uploads/vod/2022-06-06/629d89e9c207d.jpg",
+    "sname":"Love, Death & Robots",
+    "link":[
+      {
+        "part":"1",
+       "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      },
+       {
+         "part":"2",
+       "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      },
+       {
+         "part":"3",
+      "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      }
+    ]
+  
+  },
+    {
+  "img":"http://zegomovie.com/Uploads/vod/2019-08-23/5d5fafcb3cdf4.jpg",
+       "sname":"Deception",
+    "link":[
+      {
+        "part":"1",
+       "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      },
+       {
+         "part":"2",
+      "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      },
+       {
+         "part":"3",
+      "downloadLink":"http://www.zegomovie.com/Download/Blowback/Blowback.mp4",
+    "playLink": "http://www.zegomovie.com/Download/Blowback/Blowback.mp4"
+      }
+    ]
+  
+  }
+
 ]
        
